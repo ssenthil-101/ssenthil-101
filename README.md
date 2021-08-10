@@ -10,3 +10,4 @@
 - 🤔 I’m looking for help with to collaborate on some college projects.
 - 💬 Ask me about anything but not about complex math
 - 📫 How to reach me: ssenthil1490@github.com
+- **Life isn't about what we know its about what we do with what we know.**
