@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently learning Machine Learning, NLP and CV.
+- 🔭 I’m interested in Machine Learning, NLP and CV.
 - 🌱 I’m currently learning C++, Julia.
 - 👯 I’m looking to collaborate on projects which will help open-source initiatives.
 - 💬 Ask me about anything but not about complex math
